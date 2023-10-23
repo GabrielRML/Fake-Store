@@ -14,7 +14,7 @@
 npm install
 ```
  ![image](https://github.com/GabrielRML/Fake-Store/assets/110957178/020750b9-73c7-496f-9d6d-acacfc4edb0f)
-- Agora digite o seguinte comanda para inicializar a aplicação
+- Agora digite o seguinte comando para inicializar a aplicação
 ```sh
 npm run dev
 ```
